@@ -1,0 +1,11 @@
+[project]
+name = "listing-forge"
+version = "0.1.0"
+requires-python = ">=3.10"
+
+[project.scripts]
+listing-forge = "listing_forge.cli:main"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
