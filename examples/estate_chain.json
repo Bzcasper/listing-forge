@@ -1,0 +1,40 @@
+{
+  "source_notes_file": "notes.sample.txt",
+  "source_notes": "14k yellow gold rope chain, 18 inch, 3.2g, estate, light polish wear, lobster clasp, no stones, marked 14K Italy",
+  "title": "14K Yellow Gold Rope Chain Necklace 18\" 3.2g Estate Italy Lobster Clasp",
+  "description": "Estate 14K yellow gold rope chain necklace.\n\n- Purity / Mark: 14K, marked \"14K Italy\"\n- Length: 18 inch\n- Weight: 3.2g\n- Clasp: lobster clasp, working\n- Stones: none / no stones\n- Condition: estate, light polish wear consistent with age/use\n\nClassic Italian rope chain, ready to wear alone or with a small pendant. Please review photos and weight/length; estate item sold as described.",
+  "condition": "Pre-Owned - Good (estate, light polish wear)",
+  "item_specifics": {
+    "Metal": "Yellow Gold",
+    "Metal Purity": "14K",
+    "Necklace Length": "18 in",
+    "Weight": "3.2g",
+    "Chain Style": "Rope",
+    "Clasp": "Lobster",
+    "Stone": "No Stone",
+    "Markings": "14K Italy",
+    "Country of Origin": "Italy",
+    "Vintage": true
+  },
+  "tags": [
+    "14k gold rope chain",
+    "14k italian rope chain",
+    "estate gold chain",
+    "18 inch rope necklace",
+    "yellow gold chain",
+    "lobster clasp chain"
+  ],
+  "csv_row": {
+    "Action": "Add",
+    "Title": "14K Yellow Gold Rope Chain Necklace 18\" 3.2g Estate Italy Lobster Clasp",
+    "ConditionID": "3000",
+    "C:Metal": "Yellow Gold",
+    "C:Metal Purity": "14K",
+    "C:Necklace Length": "18 in",
+    "C:Chain Style": "Rope",
+    "PicURL": "",
+    "Description": "Estate 14K yellow gold rope chain necklace. 18 inch, 3.2g, lobster clasp, marked 14K Italy. No stones. Light polish wear.",
+    "Quantity": "1",
+    "Format": "FixedPrice"
+  }
+}
